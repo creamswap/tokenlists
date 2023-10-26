@@ -1,0 +1,108 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 10,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
+  "keywords": [
+    "pancake",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "USDT Token",
+      "symbol": "USDT",
+      "address": "0x382bB369d343125BfB2117af9c149795C6C65C50",
+      "chainId": 66,
+      "decimals": 18
+    },
+    {
+      "name": "Cream Token",
+      "symbol": "Cream",
+      "address": "0x1D67b203fe1F6697F45B034139aeFA195b84dBF1",
+      "chainId": 66,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+    },
+    {
+      "name": "Cream Token",
+      "symbol": "Cream",
+      "address": "0xD4ABef1D6B87a584888ec15B92EF69B07DA19F61",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "NAILONG",
+      "symbol": "NAILONG",
+      "address": "0xa0f560c8c5104185685597257980134e989a2309",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://creamswap.app/tokenlists/imgs/0xa0f560c8c5104185685597257980134e989a2309.png"
+    },
+    {
+      "name": "BABYSHIB",
+      "symbol": "BABYSHIB",
+      "address": "0xB67df69fa3cF25aD91912c98D99Fd2E22b62213D",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://creamswap.app/tokenlists/imgs/0xB67df69fa3cF25aD91912c98D99Fd2E22b62213D.png"
+    },
+    {
+      "name": "BUSD",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://creamswap.app/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    },
+    {
+      "name": "Martin",
+      "symbol": "Martin",
+      "address": "0xf2b4f91b882fafba26c445b5dabc4c28ceaa3998",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://creamswap.app/tokenlists/imgs/0xf2b4f91b882fafba26c445b5dabc4c28ceaa3998.png"
+    },
+    {
+      "name": "DRAGONMOON",
+      "symbol": "DRAGONMOON",
+      "address": "0x46e28b31578c8d3d55ca0e8bd9f408cc36173170",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://creamswap.app/tokenlists/imgs/0x46e28b31578c8d3d55ca0e8bd9f408cc36173170.png"
+    },
+    {
+      "name": "Dragon2024",
+      "symbol": "Dragon2024",
+      "address": "0x866eE38A900Ae4d2E6ac4b116A5Ef8479f9a5367",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://creamswap.app/tokenlists/imgs/0x866eE38A900Ae4d2E6ac4b116A5Ef8479f9a5367.png"
+    }
+  ]
+}
