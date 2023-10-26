@@ -62,7 +62,7 @@
       "address": "0xa0f560c8c5104185685597257980134e989a2309",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://creamswap.app/tokenlists/imgs/0xa0f560c8c5104185685597257980134e989a2309.png"
+      "logoURI": "https://raw.githubusercontent.com/creamswap/tokenlists/main/imgs/0xa0f560c8c5104185685597257980134e989a2309.png"
     },
     {
       "name": "BABYSHIB",
@@ -70,15 +70,7 @@
       "address": "0xB67df69fa3cF25aD91912c98D99Fd2E22b62213D",
       "chainId": 56,
       "decimals": 9,
-      "logoURI": "https://creamswap.app/tokenlists/imgs/0xB67df69fa3cF25aD91912c98D99Fd2E22b62213D.png"
-    },
-    {
-      "name": "BUSD",
-      "symbol": "BUSD",
-      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://creamswap.app/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+      "logoURI": "https://raw.githubusercontent.com/creamswap/tokenlists/main/imgs/0xB67df69fa3cF25aD91912c98D99Fd2E22b62213D.png"
     },
     {
       "name": "Martin",
@@ -86,7 +78,7 @@
       "address": "0xf2b4f91b882fafba26c445b5dabc4c28ceaa3998",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://creamswap.app/tokenlists/imgs/0xf2b4f91b882fafba26c445b5dabc4c28ceaa3998.png"
+      "logoURI": "https://raw.githubusercontent.com/creamswap/tokenlists/main/imgs/0xf2b4f91b882fafba26c445b5dabc4c28ceaa3998.png"
     },
     {
       "name": "DRAGONMOON",
@@ -94,7 +86,7 @@
       "address": "0x46e28b31578c8d3d55ca0e8bd9f408cc36173170",
       "chainId": 56,
       "decimals": 9,
-      "logoURI": "https://creamswap.app/tokenlists/imgs/0x46e28b31578c8d3d55ca0e8bd9f408cc36173170.png"
+      "logoURI": "https://raw.githubusercontent.com/creamswap/tokenlists/main/imgs/0x46e28b31578c8d3d55ca0e8bd9f408cc36173170.png"
     },
     {
       "name": "Dragon2024",
@@ -102,7 +94,7 @@
       "address": "0x866eE38A900Ae4d2E6ac4b116A5Ef8479f9a5367",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://creamswap.app/tokenlists/imgs/0x866eE38A900Ae4d2E6ac4b116A5Ef8479f9a5367.png"
+      "logoURI": "https://raw.githubusercontent.com/creamswap/tokenlists/main/imgs/0x866eE38A900Ae4d2E6ac4b116A5Ef8479f9a5367.png"
     }
   ]
 }
