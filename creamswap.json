@@ -87,14 +87,6 @@
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/creamswap/tokenlists/main/imgs/0x46e28b31578c8d3d55ca0e8bd9f408cc36173170.png"
-    },
-    {
-      "name": "Dragon2024",
-      "symbol": "Dragon2024",
-      "address": "0x866eE38A900Ae4d2E6ac4b116A5Ef8479f9a5367",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/creamswap/tokenlists/main/imgs/0x866eE38A900Ae4d2E6ac4b116A5Ef8479f9a5367.png"
     }
   ]
 }
