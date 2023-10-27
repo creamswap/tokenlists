@@ -93,7 +93,7 @@
       "symbol": "TOKEN",
       "address": "0x4507cef57c46789ef8d1a19ea45f4216bae2b528",
       "chainId": 56,
-      "decimals": 18,
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/creamswap/tokenlists/main/imgs/0x4507cef57c46789ef8d1a19ea45f4216bae2b528.png"
     }
   ]
